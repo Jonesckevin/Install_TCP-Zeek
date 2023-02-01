@@ -11,6 +11,8 @@ Today we have given you  what I hope is a working script to help you install som
 ## **Usage**
 ```bash
 sudo apt install wget
+```
+```bash
 wget -O - https://raw.githubusercontent.com/Jonesckevin/Install_ZeekSnort/main/Install_ZeekSnort.sh | bash
 ```
 
